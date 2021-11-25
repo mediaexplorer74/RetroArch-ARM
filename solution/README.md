@@ -84,7 +84,7 @@ There is an issue will cause crash if you bring the app from background using it
 <br/>
 Now the app no longer will crash if called again from it's launcher
 
-
+<br/>
 Hope these will help you
 
 If you faced any issues contact me <a href="mailto:services@astifan.online">services@astifan.online</a>
