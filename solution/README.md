@@ -31,9 +31,9 @@ but with this solution you will be able to access to the games from <b>Load Cont
 
 - Goto <b>uwp</b> and Open <b>uwp_main.cpp</b>
 
-- add <b>char* uwp_picker_recents[100];</b> under <b>win32_cpu_model_name</b>
+- add <code>char* uwp_picker_recents[100];</code> under <code>win32_cpu_model_name</code>
 
-- add <b>bool isAppReady = false;</b> after as well (will be used later)
+- add <code>bool isAppReady = false;</code> after as well (will be used later)
 
 <br/>
 
@@ -51,17 +51,17 @@ but with this solution you will be able to access to the games from <b>Load Cont
 
 - Goto <b>frontend</b> -> <b>drivers</b>
 
-- Open <b>platform_uwp.c</b> search for <b>frontend_uwp_parse_drive_list</b>
+- Open <b>platform_uwp.c</b> search for <code>frontend_uwp_parse_drive_list</code>
 
 - Open our file and update the changes till the line with <b>menu_entries_append_enum</b>
 
-- Be sure you disabled <i>DWORD drives = ...+all related code</i> it's not helpful in UWP
+- Be sure you disabled <code>DWORD drives = ...+all related code</code> it's not helpful in UWP
 
 <br/>
 	
 - Goto <b>menu</b> -> <b>cbs</b>
 
-- Open <b>menu_cbs_ok.c</b> search for <b>action_ok_open_picker</b>
+- Open <b>menu_cbs_ok.c</b> search for <code>action_ok_open_picker</code>
 
 - Update the function as to be like in the file we have
 
@@ -75,11 +75,11 @@ There is an issue will cause crash if you bring the app from background using it
 
 - Goto <b>uwp</b> and open <b>uwp_main.cpp</b>
 
-- Search for <b>App::Load(Platform::String^ entryPoint)</b>
+- Search for <code>App::Load(Platform::String^ entryPoint)</code>
 
-- Add this at the first line: <b>if(isAppReady){return;}</b>
+- Add this at the first line: <code>if(isAppReady){return;}</code>
 
-- Add this at the end of the function: <b>isAppReady = true;</b>
+- Add this at the end of the function: <code>isAppReady = true;</code>
 
 <br/>
 Now the app no longer will crash if called again from it's launcher
