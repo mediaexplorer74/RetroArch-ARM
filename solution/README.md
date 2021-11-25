@@ -4,7 +4,7 @@ Here you will find my solution for UWP version
 
 this solution will help you to select the games folder only once
 
-then you access to it directly from RetroArch
+then you access to it directly from <b>Load Content</b>
 
 multiple locations supported
 
