@@ -29,7 +29,7 @@ but with this solution you will be able to access to the games from <b>Load Cont
 
 # Steps
 
-- Goto <b style="font-color:lighblue;">uwp</b> and Open <b>uwp_main.cpp</b>
+- Goto <b style="color:dodgerblue;">uwp</b> and Open <b>uwp_main.cpp</b>
 
 - add <b>char* uwp_picker_recents[100];</b> under <b>win32_cpu_model_name</b>
 
