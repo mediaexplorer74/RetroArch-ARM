@@ -45,7 +45,7 @@ but with this solution you will be able to access to the games from <b>Load Cont
 
 - Goto <b>uwp</b> folder
 
-- Check <b>uwp_func.h</b> and add what is missing from our files
+- Check <b>uwp_func.h</b> and add what is missing from our file
 
 <br/>
 
