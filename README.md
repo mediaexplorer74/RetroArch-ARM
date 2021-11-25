@@ -24,73 +24,14 @@ Cores are compiled as MSVC ARM (UWP), some of them worked on WOA release
 - Cores are included with both releases
 
 
-# Cores
-
-- Arcade:
--   1-FB Alpha 2012
--   2-FBNeo
--   3-MAME2000
--   4-MAME2003-Plus
-
-- DOS Box
-- Vectrex (OpenGLES)
-
-- Atari:
--   1-2600
--   2-5200
--   3-7800
--   4-Jaguar
--   5-Lynx
-
-- Nintendo:
--   1-NES
--   2-SNES
--   3-GB / GBC / GBA
--   4-NDS
--   6-VirtualBoy
--   7-Pokémon Mini
-
-- SEGA:
--   1-SG1000
--   2-Master System
--   3-GameGear
--   4-Mega Drive
--   5-Mega CD
--   6-Saturn
-
-- NEC:
--   1-PC Engine
--   2-PC-FX
--   3-NEC PC-8000
-
-- PlayStation PSX
-- The 3DO
-
-- Neo Geo Pocket
-- WonderSwan
-- Fairchild Channel F
-- Game Music Emu
-- LowRes NX
-- Magnavox Odyssey2 (Videopac)
-- Microsoft MSX
-- ColecoVision
-- Pocket CDG
-- Watara Supervision
-- TIC-80
-
-
--Games Engines:
--   2048
--   Cannonball
--   Cave Story
--   Doom, Doom II
--   Flashback
--   Quake
--   Rick Dangerous
-
-
 # Credits
+<a href="https://www.retroarch.com/">RetroArch</a> Developed by RetroArch Team 
 
 UWP enhancements and cores compiling Bashar Astifan
 
 WOA release (client) Johnsmoses
+
+
+# Support
+
+RetroArch Team done greate job to make this project if you would like to support them <a href="https://www.retroarch.com/index.php?page=donate">Click Here</a>
