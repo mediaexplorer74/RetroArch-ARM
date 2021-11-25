@@ -36,14 +36,17 @@ but with this solution you will be able to access to the games from <b>Load Cont
 - add <b>bool isAppReady = false;</b> after as well (will be used later)
 
 
+
 - Goto <b>libretro-common</b> -> <b>vfs</b>
 
 - Replace <b>vfs_implementation_uwp.cpp</b> with the one we have
 
 
+
 - Goto <b>uwp</b> folder
 
 - Check <b>uwp_func.h</b> and add what is missing from our files
+
 
 
 - Goto <b>frontend</b> -> <b>drivers</b>
@@ -53,6 +56,7 @@ but with this solution you will be able to access to the games from <b>Load Cont
 - Open our file and update the changes till the line with <b>menu_entries_append_enum</b>
 
 - Be sure you disabled <i>DWORD drives = ...</i> it's not helpful in UWP
+
 
 
 - Goto <b>menu</b> -> <b>cbs</b>
