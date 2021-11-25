@@ -27,6 +27,8 @@ Cores are compiled as MSVC ARM (UWP), some of them worked on WOA release
 # Credits
 <a href="https://www.retroarch.com/">RetroArch</a> Developed by RetroArch Team 
 
+Thanks for <a href="https://www.libretro.com/">Libretro</a> to provide this solution to use the cores in one platform
+
 UWP enhancements and cores compiling Bashar Astifan
 
 WOA release (client) Johnsmoses
