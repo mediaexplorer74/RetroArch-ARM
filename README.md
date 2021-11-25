@@ -37,3 +37,8 @@ WOA release (client) Johnsmoses
 # Support
 
 RetroArch Team done greate job to make this project if you would like to support them <a href="https://www.retroarch.com/index.php?page=donate">Click Here</a>
+
+
+# Note
+
+I'm not affiliate with RetroArch or Libretro
