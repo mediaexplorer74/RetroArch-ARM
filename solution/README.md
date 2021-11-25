@@ -29,7 +29,7 @@ but with this solution you will be able to access to the games from <b>Load Cont
 
 # Steps
 
-- Goto <b style="color:dodgerblue;">uwp</b> and Open <b>uwp_main.cpp</b>
+- Goto <b>uwp</b> and Open <b>uwp_main.cpp</b>
 
 - add <b>char* uwp_picker_recents[100];</b> under <b>win32_cpu_model_name</b>
 
@@ -55,7 +55,7 @@ but with this solution you will be able to access to the games from <b>Load Cont
 
 - Open our file and update the changes till the line with <b>menu_entries_append_enum</b>
 
-- Be sure you disabled <i>DWORD drives = ...</i> it's not helpful in UWP
+- Be sure you disabled <i>DWORD drives = ...+all related code</i> it's not helpful in UWP
 
 <br/>
 	
