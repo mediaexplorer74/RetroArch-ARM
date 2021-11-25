@@ -2,6 +2,7 @@
   <img src="assets/logo.png" width="176"><br>
   <b>RetroArch ARM Cores with UWP & WOA releases</b><br/>
   <a href="./cores">Cores</a> |
+  <a href="./solution">Solution</a> |
   <a href="https://github.com/libretro/RetroArch">RetroArch Project</a> 
   <br/><br/>
   <img src="assets/screen.jpg"><br/><br/>
