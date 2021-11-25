@@ -35,19 +35,19 @@ but with this solution you will be able to access to the games from <b>Load Cont
 
 - add <b>bool isAppReady = false;</b> after as well (will be used later)
 
-
+<br/>
 
 - Goto <b>libretro-common</b> -> <b>vfs</b>
 
 - Replace <b>vfs_implementation_uwp.cpp</b> with the one we have
 
-
+<br/>
 
 - Goto <b>uwp</b> folder
 
 - Check <b>uwp_func.h</b> and add what is missing from our files
 
-
+<br/>
 
 - Goto <b>frontend</b> -> <b>drivers</b>
 
@@ -57,15 +57,15 @@ but with this solution you will be able to access to the games from <b>Load Cont
 
 - Be sure you disabled <i>DWORD drives = ...</i> it's not helpful in UWP
 
-
-
+<br/>
+	
 - Goto <b>menu</b> -> <b>cbs</b>
 
 - Open <b>menu_cbs_ok.c</b> search for <b>action_ok_open_picker</b>
 
 - Update the function as to be like in the file we have
 
-
+<br/>
 After these changes you will be able to use <b>Load Content</b> correctly
  
 
@@ -81,7 +81,7 @@ There is an issue will cause crash if you bring the app from background using it
 
 - Add this at the end of the function: <b>isAppReady = true;</b>
 
-
+<br/>
 Now the app no longer will crash if called again from it's launcher
 
 
