@@ -1,6 +1,6 @@
 <p align="center">
   <img src="assets/logo.png" width="176"><br>
-  <b>RetroArch ARM Cores with UWP & WOA releases</b><br/>
+  <b>RetroArch ARM Cores with UWP release</b><br/>
   <a href="./cores">Cores</a> |
   <a href="./solution">Solution</a> |
   <a href="https://github.com/libretro/RetroArch">RetroArch Project</a> 
