@@ -20,9 +20,7 @@ Cores are compiled as MSVC ARM (UWP), some of them worked on WOA release
 
 - RetroArch UWP 1.9.13 (with enhancements for UWP)
 
-- RetroArch 1.7.9 (WOA) by <a href="https://forums.libretro.com/u/driver1998">driver1998</a>, <a href="https://forums.libretro.com/u/johnsmoses">Johnsmoses</a> 
-
-- Cores are included with both releases
+- Cores are included
 
 
 # Credits
@@ -31,8 +29,6 @@ Cores are compiled as MSVC ARM (UWP), some of them worked on WOA release
 Thanks for <a href="https://www.libretro.com/">Libretro</a> to provide this solution to use the cores in one platform
 
 UWP enhancements and cores compiling Bashar Astifan
-
-WOA release (client) by driver1998, re-published by Johnsmoses
 
 
 # Support
