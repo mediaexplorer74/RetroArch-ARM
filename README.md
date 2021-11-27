@@ -20,7 +20,7 @@ Cores are compiled as MSVC ARM (UWP), some of them worked on WOA release
 
 - RetroArch UWP 1.9.13 (with enhancements for UWP)
 
-- RetroArch 1.7.9 (WOA) by <a href="https://forums.libretro.com/u/johnsmoses">Johnsmoses</a> 
+- RetroArch 1.7.9 (WOA) by <a href="https://forums.libretro.com/u/driver1998">driver1998</a>, <a href="https://forums.libretro.com/u/johnsmoses">Johnsmoses</a> 
 
 - Cores are included with both releases
 
