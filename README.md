@@ -32,7 +32,7 @@ Thanks for <a href="https://www.libretro.com/">Libretro</a> to provide this solu
 
 UWP enhancements and cores compiling Bashar Astifan
 
-WOA release (client) Johnsmoses
+WOA release (client) by driver1998, re-published by Johnsmoses
 
 
 # Support
