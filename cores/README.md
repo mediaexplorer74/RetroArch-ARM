@@ -59,7 +59,7 @@ Note (Non-UWP): you might need to add the files in **Libraries (dll)** to RetroA
 -   7-SEGA Dreamcast (D3D11)
 
 
-<b>NEC:</a>
+<b>NEC:</b>
 
 -   1-PC Engine
 -   2-PC-FX
@@ -100,7 +100,7 @@ Note (Non-UWP): you might need to add the files in **Libraries (dll)** to RetroA
 
 
 
-<b>Games Engines:</a>
+<b>Games Engines:</b>
 
 -   OpenLara (GLES 3.0)
 -   2048
