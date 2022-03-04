@@ -1,37 +1,47 @@
-# UWP
+# MSVC Cores
 
 Tested on UWP version including quick tests for the contents
 
 # Non-UWP
 
-Tested to load on ARM32 (WOA), but not tested with content for all the cores
+You need to try by your self many cores expected to work without issue
+
+Note (Non-UWP): you might need to add the files in **Libraries (dll)** to RetroArch folder and System32
 
 
 
-# Cores
+# Supported Cores
 
 <b>Arcade:</b>
--   1-FB Alpha 2012
--   2-FBNeo
--   3-MAME2000
--   4-MAME2003-Plus
+
+-   FB Alpha 2012
+-   FBNeo
+-   MAME2000
+-   MAME2003-Plus
 
 
-- DOS Box
-- Vectrex (OpenGLES)
+<b>Special:</b>
+
+-   DOS Box
+-   Vectrex (GLES 2.0)
+-   ScummVM (2.6.0)
+-   Game & Watch
 
 
 <b>Atari:</b>
--   1-2600
--   2-5200
--   3-7800
--   4-Jaguar
--   5-Lynx
+
+-   2600
+-   5200
+-   7800
+-   Jaguar
+-   Lynx
 
 
 <b>Nintendo:</b>
+
 -   1-NES
 -   2-SNES
+-   N64 (GLES 2.0, GLES 3.0) 
 -   3-GB / GBC / GBA
 -   4-NDS
 -   6-VirtualBoy
@@ -39,25 +49,38 @@ Tested to load on ARM32 (WOA), but not tested with content for all the cores
 
 
 <b>SEGA:</b>
+
 -   1-SG1000
 -   2-Master System
 -   3-GameGear
 -   4-Mega Drive
 -   5-Mega CD
 -   6-Saturn
+-   7-SEGA Dreamcast (D3D11)
 
 
 <b>NEC:</a>
+
 -   1-PC Engine
 -   2-PC-FX
 -   3-NEC PC-8000
 
 
-- PlayStation PSX
+<b>Sony:</b>
+
+-   PlayStation PSX (Software render and GLES 3.0)
+-   PPSSPP (GLES 2.0)
+
+
+<b>SNK:</b>
+
+-   Neo Geo Pocket
+-   NeoGeo CD
+
+
+<b>Others:</b>
+
 - The 3DO
-
-
-- Neo Geo Pocket
 - WonderSwan
 - Fairchild Channel F
 - Game Music Emu
@@ -68,9 +91,18 @@ Tested to load on ARM32 (WOA), but not tested with content for all the cores
 - Pocket CDG
 - Watara Supervision
 - TIC-80
+- Commodore Series (64 , C128, CBM-II..etc)
+- Amstrad CPC
+- Jump 'n Bump
+- Sinclair ZX81
+- Mattel Intellivision
+- Mac II
+
 
 
 <b>Games Engines:</a>
+
+-   OpenLara (GLES 3.0)
 -   2048
 -   Cannonball
 -   Cave Story
