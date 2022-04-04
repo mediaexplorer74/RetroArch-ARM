@@ -24,7 +24,7 @@ Note (Non-UWP): you might need to add the files in **Libraries (dll)** to RetroA
 
 -   DOS Box
 -   Vectrex (GLES 2.0)
--   ScummVM (2.6.0) Thanks to (diablodiab)[https://github.com/diablodiab]
+-   ScummVM (2.6.0) Thanks to [diablodiab](https://github.com/diablodiab)
 -   Game & Watch
 
 
@@ -45,7 +45,7 @@ Note (Non-UWP): you might need to add the files in **Libraries (dll)** to RetroA
 -   3-GB / GBC / GBA
 -   4-NDS
 -   6-VirtualBoy
--   7-Pokémon Mini
+-   7-PokÃ©mon Mini
 
 
 <b>SEGA:</b>
