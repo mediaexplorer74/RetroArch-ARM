@@ -24,7 +24,7 @@ Note (Non-UWP): you might need to add the files in **Libraries (dll)** to RetroA
 
 -   DOS Box
 -   Vectrex (GLES 2.0)
--   ScummVM (2.6.0)
+-   ScummVM (2.6.0) Thanks to (diablodiab)[https://github.com/diablodiab]
 -   Game & Watch
 
 
