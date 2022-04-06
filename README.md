@@ -1,6 +1,6 @@
 <p align="center">
   <img src="assets/logo.png" width="176"><br>
-  <b>RetroArch ARM UWP release</b><br/>
+  <b>RetroArch ARM UWP/WOA release</b><br/>
   <a href="./cores">Cores</a> |
   <a href="https://forum.xda-developers.com/t/retroarch-uwp-arm-release-n64-scummvm-and-more.4411251/">XDA Article</a> |
   <a href="https://github.com/libretro/RetroArch">Project</a> 
