@@ -13,13 +13,9 @@
 
 After long time of work I present to you this release of RetroArch for Windows (ARM) devices
 
-With more than 70+ core, Cores are compiled for MSVC ARM
+With more than 70+ core, Cores are compiled for MSVC ARM (UWP), some of them worked on WOA release
 
-
-# Target
-
-- It should work with Build: 15063+ (14393 with few cores)
-- Supports UWP & WOA
+Including N64 core with Hardware render (Which is very rare)
 
 
 # Improvements
@@ -47,6 +43,16 @@ and reverted back the uncompatbile functions for the lower builds.
 - Mattel Intellivision
 - Mac II
 
+
+# Downloads
+
+- RetroArch UWP 1.10.1 (Latest as per Mar. 4, 2022)
+
+- Cores are included
+
+# Target
+
+It should work with Build: 15063+ (14393 with few cores)
 
 
 # Future

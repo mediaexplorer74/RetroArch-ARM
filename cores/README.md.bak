@@ -1,6 +1,12 @@
 # MSVC Cores
 
-Tested on UWP & WOA versions including quick tests for the contents
+Tested on UWP version including quick tests for the contents
+
+# Non-UWP
+
+You need to try by your self many cores expected to work without issue
+
+Note (Non-UWP): you might need to add the files in **Libraries (dll)** to RetroArch folder and System32
 
 
 
