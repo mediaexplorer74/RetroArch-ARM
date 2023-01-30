@@ -13,22 +13,16 @@
 
 After long time of work I present to you this release of RetroArch for Windows (ARM) devices
 
-With more than 70+ core, Cores are compiled for MSVC ARM
+With more than 70+ core
 
 
 # Target
 
-- It should work with Build: 15063+ (14393 with few cores)
-- Supports UWP & WOA
+- It should work with Build: 15035+ (14393 with few cores)
 
 
-# Improvements
-
-This release contains the latest ANGLE library (by Google) that used to make OpenGL ES supported
-
-Also I made many improvements for UWP functions,
-
-and reverted back the uncompatbile functions for the lower builds.
+# UWP improvements
+This app supported by [UWP2Win32](https://github.com/basharast/UWP2Win32)
 
 
 # New Cores
@@ -58,11 +52,12 @@ and reverted back the uncompatbile functions for the lower builds.
 
 # Credits
 
-<a href="https://www.retroarch.com/">RetroArch</a> Developed by RetroArch Team 
+- <a href="https://www.retroarch.com/">RetroArch</a> Developed by RetroArch Team 
 
-Thanks for <a href="https://www.libretro.com/">Libretro</a> to provide this solution to use the cores in one platform
 
-UWP enhancements and cores compiling Bashar Astifan
+- Bashar Astifan (UWP Improvements and ARM support)
+
+- [Gustave Monce](https://github.com/gus33000) (DLL dynamic loading solution)
 
 
 # Support
