@@ -25,24 +25,6 @@ With more than 70+ core
 This app supported by [UWP2Win32](https://github.com/basharast/UWP2Win32)
 
 
-# New Cores
-- N64 
-- ScummVM 2.6.0
-- SEGA Dreamcast
-- PPSSPP
-- PSX HW GPU
-- OpenLara (Tomb Rider)
-- Commodore Series (64 , C128, CBM-II..etc)
-- NeoGeo CD
-- Amstrad CPC
-- Game & Watch
-- Jump 'n Bump
-- Sinclair ZX81
-- Mattel Intellivision
-- Mac II
-
-
-
 # Future
 
 - Help me add Dynarec for Flycast: [GitHub Issue here](https://github.com/flyinghead/flycast/issues/545)
