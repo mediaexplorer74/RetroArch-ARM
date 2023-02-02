@@ -46,18 +46,15 @@ a little:)
 - [Gustave Monce](https://github.com/gus33000) (DLL dynamic loading solution)
 
 
-# Support
+# Support - RetroArch Team
 RetroArch Team done greate job to make this project if you would like to support 
 them <a href="https://www.retroarch.com/index.php?page=donate">Click Here</a>
-
-You can also help me to keep this kind of projects a live by supporting my projects like:
-
-- <a href="https://github.com/basharast/wut">W.U.T</a>
-
-- <a href="https://github.com/basharast/AstifanSystem">Astifan System</a>
 
 # Note
 I'm not affiliate with RetroArch or Libretro 
 
+## ..
+AS IS :: No my support :: Devs / RnD only ::  DIY !  
+
 ## .
-[m][e] 2023
+[m][e] February 2, 2023
