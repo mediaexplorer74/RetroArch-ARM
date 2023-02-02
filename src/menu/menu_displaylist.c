@@ -26,7 +26,7 @@
 #include <lists/dir_list.h>
 #include <file/file_path.h>
 #include <file/archive_file.h>
-#include <playlists/label_sanitization.h>
+#include <../playlists/label_sanitization.h>
 #include <string/stdstring.h>
 #include <streams/file_stream.h>
 #include <features/features_cpu.h>
@@ -1889,7 +1889,7 @@ static int menu_displaylist_parse_playlist(menu_displaylist_info_t *info,
 
    switch (playlist_get_label_display_mode(playlist))
    {
-      case LABEL_DISPLAY_MODE_REMOVE_PARENTHESES :
+      /*case LABEL_DISPLAY_MODE_REMOVE_PARENTHESES:
          sanitization = &label_remove_parens;
          break;
       case LABEL_DISPLAY_MODE_REMOVE_BRACKETS :
@@ -1906,7 +1906,7 @@ static int menu_displaylist_parse_playlist(menu_displaylist_info_t *info,
          break;
       case LABEL_DISPLAY_MODE_KEEP_REGION_AND_DISC_INDEX :
          sanitization = &label_keep_region_and_disc;
-         break;
+         break;*/
       default :
          sanitization = NULL;
    }

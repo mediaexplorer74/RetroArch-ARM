@@ -9,55 +9,55 @@
 </p>
 
 
-# About
+# About / Abstract
+- This is [RetroArch for Windows (ARM) devices](https://github.com/basharast/RetroArch-ARM).
+- With more than 70+ core! 
+- I forked this/that release for my own RnD.
 
-After long time of work I present to you this release of RetroArch for Windows (ARM) devices
-
-With more than 70+ core
-
+## Screenshots
+![Installed](Images/shot1.png)
+![Running](Images/shot2.png)
 
 # Target
-
 - It should work with Build: 15035+ (14393 with few cores)
-
+- ARM (special for W10M))))
 
 # UWP improvements
-This app supported by [UWP2Win32](https://github.com/basharast/UWP2Win32)
+- This app supported by [UWP2Win32](https://github.com/basharast/UWP2Win32)
 
-# Cores updater
-The current cores downloader/updater linked with my repo at `docs/cores`
+## My 2 cents
+In my VS 2022 Preview, the solution failed to/on build (compile)... and I recovered this/that process 
+a little:) 
 
-if you want to help to get/fix more cores for ARM please submit pull request with the target core or contact me
-
+## How to "deploy/assemble" this "project hell" :)
+- Find src/pkg/msvc-uwp/RetroArch-msvc2019-UWP.sln file.
+- Open it with VS 2022 Preview. Switch solution onto Debug mode. Choose ARM target.
+- Locate RetroArch-msvc2019-UWP and choose Publish, then create RetroArch-msvc2019-UWP_1.10.6.0_arm_Debug.appxbundle
+- Test the result on your Lumia "flagman" (i.e., Lumia 950 / 950XL or similar) ! :)
 
 # Future
-
 - Help me add Dynarec for Flycast: [GitHub Issue here](https://github.com/flyinghead/flycast/issues/545)
-
 - Help me to solve N64 issue: [GitHub Issue here](https://github.com/mupen64plus/mupen64plus-video-rice/issues/102)
 
 
 # Credits
-
 - <a href="https://www.retroarch.com/">RetroArch</a> Developed by RetroArch Team 
-
-
-- Bashar Astifan (UWP Improvements and ARM support)
-
+- [Bashar Astifan](https://github.com/basharast/) (UWP Improvements and ARM support)
 - [Gustave Monce](https://github.com/gus33000) (DLL dynamic loading solution)
 
 
 # Support
+RetroArch Team done greate job to make this project if you would like to support 
+them <a href="https://www.retroarch.com/index.php?page=donate">Click Here</a>
 
-RetroArch Team done greate job to make this project if you would like to support them <a href="https://www.retroarch.com/index.php?page=donate">Click Here</a>
-
-Yo can also help me to keep this kind of projects a live by supporting my projects like:
+You can also help me to keep this kind of projects a live by supporting my projects like:
 
 - <a href="https://github.com/basharast/wut">W.U.T</a>
 
 - <a href="https://github.com/basharast/AstifanSystem">Astifan System</a>
 
-
 # Note
+I'm not affiliate with RetroArch or Libretro 
 
-I'm not affiliate with RetroArch or Libretro
+## .
+[m][e] 2023
